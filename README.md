@@ -1,3 +1,13 @@
+# Introduction
+
+This is a Random Color Generator that generates a random color by pressing the SPACE key on the keyboard.
+
+Some CSS animations and transitions also included for smothness of the project.
+
+Also I used Color names API for a name for each color.
+
+There is also a copy to clipboard option by clicking on the Hex Color Code.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
